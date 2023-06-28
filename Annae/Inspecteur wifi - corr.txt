@@ -1,0 +1,24 @@
+Il n'y a pas de contextualisation à ton jeu << Inspecteur >> :
+--> Si j'ai bien compris dans les personnages, il y a trois ados + la Maman
+Parie 1 :
+Est ce que ce ne serait pas possible de faire collaborer les 3 équipes (ils ont le même objectif).
+Par exemple de diviser l'escape game en 3 sous escapes games et qu'a la fin ils ont besoin chaqu'un de leurs information pour avancer dans le jeu 
+Tips : TODO
+
+
+Partie 2 :
+Les conditions par rapport à la sécurité, mets les dans la partie sécurite
+Tips : Mets des activiés dans les postes / des énigmes 
+
+Avis global sur le jeu : 
+ - Comment on les répartis en équipe 
+ - L'idée est bonne, cependant je pense qu'il faut pousser le jeu un peu plus dans le physique (ce sont des enfants, ils ont envie de bouger, de courir, ...)
+ce que je peux te conseiller, ce serait de fusionner tes deux parties(faire une course d'orientation avec des énigmes à chaque zone).
+et puis de continuer ton jeu avec un jeu d'approche ou quelque chose comme ça. ça peut rendre le jeu beaucoup plus dynamique (plus les enfants bougent, plus ils sont fatigué et moins ils font de bêtise).
+ - les 10-12ans , c'est comme des 6-8 mais avec un égo gros comme un mellon. Est ce que tu pourrais pas modifier ton histoire pour mettre un peu de compétition entre les enfants 
+ - Hésite pas à écrire une histoire pour contextualiser le jeu
+ - Pas besoin d'expliquer la disposition lors des explication
+ - Quel est la fin du jeu ? Est ce que les enfants restent des gros geeks ou ils vont faire la vesselle pendant le restant de leurs vie ?
+ TIPS : hésite pas à ajouter des cases dans tes tableau si ça peux t'aider (une case résumé de l'histoire avec les contextualisation)
+ - Je te volerai l'idée pour un futur projet pédagogique
+ - Mets les choses propres à la sécurité dans la zone sécurité
