@@ -5,7 +5,6 @@ Est ce que ce ne serait pas possible de faire collaborer les 3 équipes (ils ont
 Par exemple de diviser l'escape game en 3 sous escapes games et qu'a la fin ils ont besoin chaqu'un de leurs information pour avancer dans le jeu 
 Tips : TODO
 
-
 Partie 2 :
 Les conditions par rapport à la sécurité, mets les dans la partie sécurite
 Tips : Mets des activiés dans les postes / des énigmes 
